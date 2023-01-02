@@ -1,0 +1,11 @@
+D:\ДНС\Рабочий стол\Защита ОС\Lab_5\Lab_5_3_1\bin\Debug\Lab_5_3_1.exe.config
+D:\ДНС\Рабочий стол\Защита ОС\Lab_5\Lab_5_3_1\bin\Debug\Lab_5_3_1.exe
+D:\ДНС\Рабочий стол\Защита ОС\Lab_5\Lab_5_3_1\bin\Debug\Lab_5_3_1.pdb
+D:\ДНС\Рабочий стол\Защита ОС\Lab_5\Lab_5_3_1\obj\Debug\Lab_5_3_1.csproj.AssemblyReference.cache
+D:\ДНС\Рабочий стол\Защита ОС\Lab_5\Lab_5_3_1\obj\Debug\Lab_5_3_1.csproj.SuggestedBindingRedirects.cache
+D:\ДНС\Рабочий стол\Защита ОС\Lab_5\Lab_5_3_1\obj\Debug\Lab_5_4_1.Execution.resources
+D:\ДНС\Рабочий стол\Защита ОС\Lab_5\Lab_5_3_1\obj\Debug\Lab_5_3_1.Properties.Resources.resources
+D:\ДНС\Рабочий стол\Защита ОС\Lab_5\Lab_5_3_1\obj\Debug\Lab_5_3_1.csproj.GenerateResource.cache
+D:\ДНС\Рабочий стол\Защита ОС\Lab_5\Lab_5_3_1\obj\Debug\Lab_5_3_1.csproj.CoreCompileInputs.cache
+D:\ДНС\Рабочий стол\Защита ОС\Lab_5\Lab_5_3_1\obj\Debug\Lab_5_3_1.exe
+D:\ДНС\Рабочий стол\Защита ОС\Lab_5\Lab_5_3_1\obj\Debug\Lab_5_3_1.pdb
